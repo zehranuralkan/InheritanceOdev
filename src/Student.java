@@ -1,6 +1,6 @@
 
 public class Student extends User{
-    int id;
+ 
     private String lesson;
 
 

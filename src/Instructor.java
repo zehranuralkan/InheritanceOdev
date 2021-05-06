@@ -1,6 +1,6 @@
 
 public class Instructor extends User{
-    int id;
+    
     private String coursesIntructorName;
    
 
